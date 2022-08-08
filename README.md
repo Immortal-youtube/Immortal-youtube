@@ -8,7 +8,7 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://whatwg.org/multipage)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org)
 [![Python](https://img.shields.io/badge/Python-0000FF?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
-[![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white)](https://java.com/en/)
+[![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/en/)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Intellij](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellij&logoColor=white)
