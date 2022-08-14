@@ -22,6 +22,5 @@
 
 <div style="display:flex;flex-direction:row;" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Immortal-youtube&count_private=true&show_icons=true&theme=radical" alt="Immortal-youtube's GitHub Stats" width="400px" height="200px" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Immortal-youtube&layout=compact&theme=radical" alt="AnishDe12020's  Wakatime States" width="400px" height="200px"/>
   
   </div>
