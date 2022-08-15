@@ -20,7 +20,4 @@
 ![Github Followers](https://img.shields.io/github/followers/Immortal-youtube?style=for-the-badge)
 ![Github Stars](https://img.shields.io/github/stars/Immortal-youtube?style=for-the-badge)
 
-<div style="display:flex;flex-direction:row;" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Immortal-youtube&count_private=true&show_icons=true&theme=radical" alt="Immortal-youtube's GitHub Stats" width="400px" height="200px" />
-  
-  </div>
+<img align="center" alt="GIF" src="https://github.com/Sharan-Python/Sharan-Python/blob/main/code.gif?raw=true" width="500" height="320" />
