@@ -19,6 +19,8 @@
 
 ![Github Followers](https://img.shields.io/github/followers/Immortal-youtube?style=for-the-badge)
 ![Github Stars](https://img.shields.io/github/stars/Immortal-youtube?style=for-the-badge)
-[![Immortal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Immortal-youtube)](https://github.com/Immortal-youtube/github-readme-stats)
+
 
 <img align="center" alt="GIF" src="https://github.com/Sharan-Python/Sharan-Python/blob/main/code.gif?raw=true" width="500" height="320" />
+
+[![Immortal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Immortal-youtube)](https://github.com/Immortal-youtube/github-readme-stats)
