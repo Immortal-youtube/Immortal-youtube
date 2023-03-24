@@ -24,3 +24,5 @@
 <img align="center" alt="GIF" src="https://github.com/Sharan-Python/Sharan-Python/blob/main/code.gif?raw=true" width="500" height="320" />
 
 [![Immortal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Immortal-youtube)](https://github.com/Immortal-youtube/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-youtube&layout=compact)](https://github.com/immortal-youtube/github-readme-stats)
