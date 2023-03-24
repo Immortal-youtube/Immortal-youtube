@@ -25,4 +25,4 @@
 
 [![Immortal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Immortal-youtube)](https://github.com/Immortal-youtube/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-youtube&layout=compact)](https://github.com/immortal-youtube/github-readme-stats)
+
